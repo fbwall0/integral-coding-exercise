@@ -18,10 +18,6 @@ public class Application {
 		
 	}
 	
-	public static void main() {
-        
-    }
-	
 	public Map<Long, User> getUserMap() {
 		return userMap;
 	}
