@@ -10,4 +10,4 @@ Gradle Project. Import into Java Editor (ie Eclipse).
 
 Major features will be run through Application.Java.
 
-Test files currently exist for the objecy models to ensure everything works properly.
+Test files currently exist for the object models to ensure everything works properly.
